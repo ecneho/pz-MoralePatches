@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_Patch</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_Patch</m_FemaleModel>
+	<m_GUID>1fc54b05-22c8-40e4-9a0f-621b62b3c118</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\MoralePatches\Patch_001</textureChoices>
+	<textureChoices>clothes\MoralePatches\Patch_002</textureChoices>
+	<textureChoices>clothes\MoralePatches\Patch_003</textureChoices>
+	<textureChoices>clothes\MoralePatches\Patch_004</textureChoices>
+	<textureChoices>clothes\MoralePatches\Patch_005</textureChoices>
+</clothingItem>

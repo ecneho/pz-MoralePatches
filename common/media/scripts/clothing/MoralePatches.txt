@@ -1,0 +1,21 @@
+module MoralePatches
+{
+	item MoralePatch
+	{
+	    	DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Morale Patch,
+		ClothingItem = MoralePatch,
+		BodyLocation = MoralePatch,
+		BloodLocation = UpperArms,
+		IconsForTexture = Patch_001; Patch_002; Patch_003; Patch_004; Patch_005,
+		CanHaveHoles = false,
+		WorldStaticModel = MoralePatch_Ground,
+		Weight = 0.001,
+	}
+
+	model MoralePatch_Ground
+	{
+		mesh = Static/Clothes/Patch_Ground,
+	}
+}
