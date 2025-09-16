@@ -8,7 +8,7 @@ module MoralePatches
 		ClothingItem = MoralePatch,
 		BodyLocation = MoralePatch,
 		BloodLocation = UpperArms,
-		IconsForTexture = Patch_001; Patch_002; Patch_003; Patch_004; Patch_005; Patch_006; Patch_007; Patch_008; Patch_009; Patch_010; Patch_011; Patch_012; Patch_013; Patch_014; Patch_015; Patch_016; Patch_017; Patch_018; Patch_019; Patch_020; Patch_021; Patch_022; Patch_023; Patch_024; Patch_025,
+		IconsForTexture = Patch_001; Patch_002; Patch_003; Patch_004; Patch_005; Patch_006; Patch_007; Patch_008; Patch_009; Patch_010; Patch_011; Patch_012; Patch_013; Patch_014; Patch_015; Patch_016; Patch_017; Patch_018; Patch_019; Patch_020; Patch_021; Patch_022; Patch_023; Patch_024; Patch_025; Patch_026; Patch_027; Patch_028; Patch_029; Patch_030; Patch_031; Patch_032; Patch_033; Patch_034; Patch_035,
 		CanHaveHoles = false,
 		WorldStaticModel = MoralePatch_Ground,
 		Weight = 0.001,
