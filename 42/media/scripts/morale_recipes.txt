@@ -1,0 +1,915 @@
+module MoraleRecipes {
+    imports {
+        Base
+    }
+
+    craftRecipe EmbroiderPatch1 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch1,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch2 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch2,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch3 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch3,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch4 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch4,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch5 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch5,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch6 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch6,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch7 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch7,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch8 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch8,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch9 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch9,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch10 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch10,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch11 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch11,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch12 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch12,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch13 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch13,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch14 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch14,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch15 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch15,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch16 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch16,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch17 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch17,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch18 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch18,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch19 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch19,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch20 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch20,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch21 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch21,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch22 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch22,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch23 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch23,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch24 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch24,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch25 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch25,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch26 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch26,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch27 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch27,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch28 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch28,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch29 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch29,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch30 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch30,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch31 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch31,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch32 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch32,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch33 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch33,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch34 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch34,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch35 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch35,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch36 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch36,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch37 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch37,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch38 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch38,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch39 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch39,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch40 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch40,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch41 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch41,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch42 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch42,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch43 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch43,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch44 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch44,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch45 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch45,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch46 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch46,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch47 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch47,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch48 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch48,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch49 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch49,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch50 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch50,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch51 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch51,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch52 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch52,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch53 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch53,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch54 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch54,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch55 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch55,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch56 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch56,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch57 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch57,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch58 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch58,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch59 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch59,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch60 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch60,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch61 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch61,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch62 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch62,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch63 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch63,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch64 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch64,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+
+    craftRecipe EmbroiderPatch65 {
+        Time = 5,
+        category = Clothing,
+        Tags = AnySurfaceCraft;CanBeDoneInDark,
+        OnCreate = Recipe.OnCreate.EmbroiderPatch65,
+        xpAward = Tailoring:5,
+        inputs
+        {
+            item 1 tags[SewingNeedle;SharpKnife] mode:keep,
+            item 1 tags[SimpleWeaponBinding],
+            item 1 tags[Thread],
+        }
+    }
+}
