@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fileGuidTable>
+	<files>
+		<path>media/clothing/clothingItems/MoralePatchRightShoulder.xml</path>
+		<guid>1fc54b05-22c8-40e4-9a0f-621b62b3c118</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/MoralePatchLeftShoulder.xml</path>
+		<guid>b07fb11f-e654-4454-af83-859ba03b7736</guid>
+	</files>
+</fileGuidTable>

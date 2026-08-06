@@ -1,0 +1,37 @@
+module MoralePatches
+{
+	item MoralePatch_LS
+	{
+		DisplayCategory = Clothing,
+		ItemType = base:clothing,
+		DisplayName = Morale Patch,
+		ClothingItem = MoralePatchLeftShoulder,
+		BodyLocation = moralepatchesbodylocation:LeftShoulderPatch,
+		ClothingItemExtra = MoralePatch_RS,
+	        ClothingItemExtraOption = MoralePatch_SwitchRight,
+		IconsForTexture = Patch_001; Patch_002; Patch_003; Patch_004; Patch_005; Patch_006; Patch_007; Patch_008; Patch_009; Patch_010; Patch_011; Patch_012; Patch_013; Patch_014; Patch_015; Patch_016; Patch_017; Patch_018; Patch_019; Patch_020; Patch_021; Patch_022; Patch_023; Patch_024; Patch_025; Patch_026; Patch_027; Patch_028; Patch_029; Patch_030; Patch_031; Patch_032; Patch_033; Patch_034; Patch_035; Patch_036; Patch_037; Patch_038; Patch_039; Patch_040; Patch_041; Patch_042; Patch_043; Patch_044; Patch_045; Patch_046; Patch_047; Patch_048; Patch_049; Patch_050; Patch_051; Patch_052; Patch_053; Patch_054; Patch_055; Patch_056; Patch_057; Patch_058; Patch_059; Patch_060; Patch_061; Patch_062; Patch_063; Patch_064; Patch_065; Patch_066; Patch_067; Patch_068; Patch_069; Patch_070; Patch_071; Patch_072; Patch_073; Patch_074; Patch_075; Patch_076; Patch_077; Patch_078; Patch_079; Patch_080; Patch_081; Patch_082; Patch_083; Patch_084; Patch_085; Patch_086; Patch_087; Patch_088; Patch_089; Patch_090; Patch_091; Patch_092; Patch_093; Patch_094; Patch_095; Patch_096; Patch_097; Patch_098; Patch_099; Patch_100,
+		CanHaveHoles = false,
+		WorldStaticModel = MoralePatch_Ground,
+		Weight = 0.001,
+	}
+
+	item MoralePatch_RS
+	{
+		DisplayCategory = Clothing,
+		ItemType = base:clothing,
+		DisplayName = Morale Patch,
+		ClothingItem = MoralePatchRightShoulder,
+		BodyLocation = moralepatchesbodylocation:RightShoulderPatch,
+		ClothingItemExtra = MoralePatch_LS,
+	        ClothingItemExtraOption = MoralePatch_SwitchLeft,
+		IconsForTexture = Patch_001; Patch_002; Patch_003; Patch_004; Patch_005; Patch_006; Patch_007; Patch_008; Patch_009; Patch_010; Patch_011; Patch_012; Patch_013; Patch_014; Patch_015; Patch_016; Patch_017; Patch_018; Patch_019; Patch_020; Patch_021; Patch_022; Patch_023; Patch_024; Patch_025; Patch_026; Patch_027; Patch_028; Patch_029; Patch_030; Patch_031; Patch_032; Patch_033; Patch_034; Patch_035; Patch_036; Patch_037; Patch_038; Patch_039; Patch_040; Patch_041; Patch_042; Patch_043; Patch_044; Patch_045; Patch_046; Patch_047; Patch_048; Patch_049; Patch_050; Patch_051; Patch_052; Patch_053; Patch_054; Patch_055; Patch_056; Patch_057; Patch_058; Patch_059; Patch_060; Patch_061; Patch_062; Patch_063; Patch_064; Patch_065; Patch_066; Patch_067; Patch_068; Patch_069; Patch_070; Patch_071; Patch_072; Patch_073; Patch_074; Patch_075; Patch_076; Patch_077; Patch_078; Patch_079; Patch_080; Patch_081; Patch_082; Patch_083; Patch_084; Patch_085; Patch_086; Patch_087; Patch_088; Patch_089; Patch_090; Patch_091; Patch_092; Patch_093; Patch_094; Patch_095; Patch_096; Patch_097; Patch_098; Patch_099; Patch_100,
+		CanHaveHoles = false,
+		WorldStaticModel = MoralePatch_Ground,
+		Weight = 0.001,
+	}
+
+	model MoralePatch_Ground
+	{
+		mesh = Static/Clothes/Patch_Ground,
+	}
+}
